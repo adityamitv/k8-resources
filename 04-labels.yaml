@@ -1,4 +1,16 @@
-ind: Pod
+# ind: Pod
+# apiVersion: v1
+# metadata:
+#   name: labels
+#   labels:
+#     course: k8
+#     trainer: sivakumar
+# spec:
+#   containers:
+#   - name: nginx
+#     image: nginx
+
+kind: Pod
 apiVersion: v1
 metadata:
   name: labels
