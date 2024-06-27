@@ -1,8 +1,9 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: daws78s
+  name: adityamitv
 data:
   course: "DevOps with AWS"
   trainer: "sivakumar"
-  github: "https://github.com/daws-78s/k8-resources"
+  github: "https://github.com/adityamitv/k8-resources.git"
+  #github: "https://github.com/daws-78s/k8-resources"
